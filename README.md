@@ -45,6 +45,3 @@ Aqui você vai encontrar meus primeiros projetos, nos quais estou aplicando o qu
 
 📖 *"Eu sou o caminho, a verdade e a vida. Ninguém vem ao Pai, a não ser por mim."*  
 — João 14:6  
-
-📖 *"O tempo está cumprido, e o reino de Deus está próximo. Arrependei-vos, e crede no evangelho."*  
-— Marcos 1:15
