@@ -24,7 +24,7 @@ Tenho estudado **lógica de programação com Python** e estou muito empolgado c
 ### 📌 Projetos iniciais:
 Aqui você vai encontrar meus primeiros projetos, nos quais estou aplicando o que venho aprendendo:
 
-- [📦 Sistema de Controle de Estoque e Análise de Vendas](https://github.com/devMarino/estoque-python-sqlite)  
+- [📦 Sistema de Controle de Estoque e Análise de Vendas](https://github.com/devMarino/ControleDestoque-python)  
   Um sistema simples desenvolvido em Python que permite cadastrar produtos, registrar vendas e acompanhar o desempenho por meio do histórico de movimentações e renda diária.  
   *Atualmente, o sistema ainda não possui persistência de dados (ou seja, não usa banco de dados), mas essa funcionalidade está nos planos para futuras versões.*
 
