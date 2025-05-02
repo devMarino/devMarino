@@ -26,7 +26,7 @@ Tenho estudado **lógica de programação com Python** e estou muito empolgado c
 Aqui você vai encontrar meus primeiros projetos, nos quais estou aplicando o que venho aprendendo:
 
 - [Sistema de Gestão de Alunos](https://github.com/devMarino/sistema-gestao-alunos)
-  Um sistema com cadastro de alunos usando CPF como chave principal, armazenando nomes,idade,disciplina,consultas. Utilizei SQlite e foi com esse projeto o primeiro contato com banco de dados(relacional).
+  Um sistema com cadastro de alunos usando CPF como chave principal, armazenando nomes, idade, disciplina, consultas. Utilizei SQlite e foi com esse projeto o primeiro contato com banco de dados(relacional).
   
 - [Sistema de Controle de Estoque e Análise de Vendas](https://github.com/devMarino/ControleDestoque-python)  
   Um sistema simples desenvolvido em Python que permite cadastrar produtos, registrar vendas e acompanhar o desempenho por meio do histórico de movimentações e renda diária.  
