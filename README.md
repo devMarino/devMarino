@@ -13,8 +13,6 @@ Tenho estudado **lógica de programação com Python** e estou muito empolgado c
 - HTML – fundamentos para estruturação de páginas web  
 - CSS - Aprendendo estilização web
 - Javascript - Conhecendo a linguagem
-- Java - conhecendo sintaxe, estruturas...
-- Tkinter - Biblioteca do python, cria interface gráfica
 ---
 
 ### 🛠️ Tecnologias e Ferramentas:
